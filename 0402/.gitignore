@@ -1,3 +1,11 @@
 #director ignore
 dir
-test/
+test/view/
+
+# except
+*.txt
+tmp.*
+net*.o
+wide*.*
+*bio*.k
+*key_*.*
