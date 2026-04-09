@@ -3,7 +3,6 @@ dir
 test/view/
 
 # except
-*.txt
 tmp.*
 net*.o
 wide*.*

@@ -1,4 +1,0 @@
-total 4
-drwxr-xr-x 1 kirih 197609 0 Apr  9 14:56 ./
-drwxr-xr-x 1 kirih 197609 0 Apr  9 14:42 ../
--rw-r--r-- 1 kirih 197609 0 Apr  9 14:56 file.txt
