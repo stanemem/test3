@@ -1,0 +1,5 @@
+total 0
+drwxr-xr-x 1 kirih 197609 0 Apr  9 13:24 ./
+drwxr-xr-x 1 kirih 197609 0 Apr  9 13:23 ../
+drwxr-xr-x 1 kirih 197609 0 Apr  9 13:24 test3/
+-rw-r--r-- 1 kirih 197609 0 Apr  9 13:24 ttt.txt
