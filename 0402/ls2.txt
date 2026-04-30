@@ -1,0 +1,5 @@
+3way.txt
+ls.txt
+ls2.txt
+new/
+widesdfsdfklsda.
