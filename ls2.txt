@@ -11,4 +11,4 @@ drwxr-xr-x 1 kirih 197609    0 Apr  2 15:38 2026_oop2/
 drwxr-xr-x 1 kirih 197609    0 Apr  9 14:56 nojujang/
 -rw-r--r-- 1 kirih 197609    0 Apr  9 13:08 teest.txt
 -rw-r--r-- 1 kirih 197609    0 Apr  9 13:09 test.jpg
-drwxr-xr-x 1 kirih 197609    0 Apr  2 15:24 test3/ㄴㅇㄹdsf
+drwxr-xr-x 1 kirih 197609    0 Apr  2 15:24 test3/ㄴㅇㄹfsdfdsfsf
